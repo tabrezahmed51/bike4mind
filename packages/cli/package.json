@@ -71,13 +71,13 @@
     "@opensearch-project/opensearch": "2.11.0",
     "@smithy/node-http-handler": "^4.9.3",
     "async-mutex": "^0.5.0",
-    "axios": "1.16.1",
+    "axios": "1.18.0",
     "bcryptjs": "^3.0.2",
     "better-sqlite3": "^12.11.1",
     "cheerio": "1.2.0",
     "chess.js": "^1.0.0-beta.8",
     "cli-highlight": "^2.1.11",
-    "csv-parse": "^6.2.1",
+    "csv-parse": "^7.0.2",
     "dayjs": "^1.11.21",
     "diff": "^9.0.0",
     "dotenv": "^17.4.2",
@@ -108,7 +108,7 @@
     "picomatch": "^4.0.5",
     "qrcode": "^1.5.4",
     "react": "^19.2.6",
-    "sharp": "^0.34.5",
+    "sharp": "^0.35.4",
     "shell-quote": "^1.8.4",
     "speakeasy": "^2.0.0",
     "tiktoken": "^1.0.22",
@@ -145,7 +145,7 @@
     "tsdown": "^0.22.3",
     "tsx": "^4.23.0",
     "typescript": "^5.9.3",
-    "vitest": "^4.1.9"
+    "vitest": "^5.0.0"
   },
   "optionalDependencies": {
     "@vscode/ripgrep": "^1.18.0"
