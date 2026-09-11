@@ -206,7 +206,7 @@
     "@mendable/firecrawl-js": "^1.29.3",
     "@opensearch-project/opensearch": "2.11.0",
     "async-mutex": "^0.5.0",
-    "axios": "1.16.1",
+    "axios": "1.18.0",
     "bcryptjs": "^3.0.2",
     "cheerio": "1.2.0",
     "chess.js": "^1.0.0-beta.8",
@@ -223,7 +223,7 @@
     "mongoose": "^8.24.1",
     "openai": "^6.38.0",
     "p-limit": "^7.3.0",
-    "sharp": "^0.34.5",
+    "sharp": "^0.35.4",
     "tiktoken": "^1.0.22",
     "turndown": "^7.2.4",
     "uuid": "^13.0.2",
@@ -244,7 +244,7 @@
     "tsdown": "^0.22.3",
     "typescript": "^5.9.3",
     "vite-tsconfig-paths": "^6.1.1",
-    "vitest": "^4.1.9"
+    "vitest": "^5.0.0"
   },
   "optionalDependencies": {
     "@vscode/ripgrep": "^1.18.0"
