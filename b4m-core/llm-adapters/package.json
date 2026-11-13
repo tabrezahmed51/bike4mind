@@ -56,11 +56,11 @@
     "@bike4mind/common": "workspace:*",
     "@bike4mind/observability": "workspace:*",
     "@google/genai": "^1.46.0",
-    "axios": "1.16.1",
+    "axios": "1.20.0",
     "lodash": "^4.18.1",
     "ollama": "^0.6.3",
     "openai": "^6.38.0",
-    "undici": "^7.28.0",
+    "undici": "^7.30.1",
     "uuid": "^13.0.2"
   },
   "devDependencies": {
